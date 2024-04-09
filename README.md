@@ -23,7 +23,7 @@ Este é um teste técnico proposto pela Ivjur para avaliar suas habilidades em d
    ```
 5. Clone este repositório utilizando o seguinte comando:
    ```
-   git clone link
+   git clone https://github.com/Jozincanela/Teste-tec-ivjur.git
    ```
    (Substitua "link" pelo link fornecido para clonagem do repositório)
 6. Após clonar o repositório, execute o arquivo `.cmd` para configurar o ambiente virtual e instalar as bibliotecas necessárias com o seguinte comando:
